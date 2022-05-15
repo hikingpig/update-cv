@@ -5,6 +5,8 @@ Design Patterns in Java
 Java Concurrency in Practice
 Core Java (1&2)
 Java OCP
+Microservices design patterns in Java
+
 
 * Database
 Database System Concepts
