@@ -74,3 +74,10 @@
       - Synchronization, Locks, Deadlocks
       - notifyAll()
 
+- design patterns
+  - changes and loose coupling
+  - intent
+  - design principles
+  - creational patterns
+  - structural patterns
+  - behavioral patterns
