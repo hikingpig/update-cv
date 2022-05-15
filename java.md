@@ -1,0 +1,76 @@
+- Concurrency:
+  - thread safety
+  - immutability
+  - synchronized collections
+  - concurrent collections
+  - producer-consumer pattern
+  - cancellation
+  - executor framework
+  - thread pools
+  - deadlock and other liveness hazards
+  - Amdahl's law
+  - Locks, Reentrant Locks and ReadWrite Locks
+  - Atomic Variables
+
+- Effective Java
+  - builder, private constructor, dependency injection, try-with-resources
+  - hashCode & equals, toString
+  - accessor methods, favor composition over inheritance
+  - generics types & methods, bounded wildcards
+  - enum, enumMap, enumSet, annotation
+  - annonymous classes, lambdas, method references
+  - streams, functional interfaces
+  - overloading, varargs
+  - string and boxed primitives performance
+  - exceptions, checked exceptions, standard exceptions, exception handling
+  - synchronization, executors, lazy initialization, thread schedulers
+
+- Java SCJP
+  - Object Orientation:
+    - Encapsulation
+    - Inheritance
+    - Overriding/Overloading
+    - Constructors/ Instantiation
+    - Static Variables and Methods
+  - Variables
+    - stacks and heaps
+    - wrapper classes, boxing, autoboxing
+    - garbage collection
+    - iteration and labels
+    - exception handling
+      - try & catch
+      - finally
+      - propagating exception
+    - assertion
+  
+  - strings
+    - String, StringBuilder, StringBuffer
+  
+  - I/O
+    - File Navigation and IO
+    - Parsing, Tokenizing, Formatting
+
+  - Generics and Collections
+    - Generics Types and Methods
+    - Polymorphism and Generics
+    - equals & hashCode
+    - List, Set, Map, Queue interfaces
+    - Collection frameworks:
+      - ArrayList
+      - autoboxing
+      - sorting
+      - TreeSets, TreeMaps
+  
+  - Inner Classes
+    - Outer instance referencing
+    - Anonymous inner class
+    - Static nested classes
+
+  - Threads:
+    - Defining, Instantiating, Starting
+    - Thread States and Transitions
+      - Sleeping
+      - Priorities
+      - Synchronization, Locks, Deadlocks
+      - notifyAll()
+
