@@ -1,0 +1,20 @@
+- SQL*Plus
+- SQL fundamentals
+- Single-row functions
+- Group functions
+- Joins
+- Subqueries
+- Manipulating Data
+  - DML statements
+  - Transaction Control
+- Tables and Constraints
+  - Schema Objects
+  - Data types
+  - Creating and Modifying tables
+  - Managing Constraints
+
+- Schema Objects
+  - Views
+  - Sequences
+  - Synonyms
+  - Indexes
