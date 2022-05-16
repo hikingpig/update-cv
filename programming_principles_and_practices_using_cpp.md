@@ -1,0 +1,69 @@
+- programming environement
+  - compilation
+  - linking
+
+- types:
+  - types and objects
+  - type safety
+- expressions, statements, functions, vector
+- errors
+  - compile-time errors
+  - link-time errors
+  - run-time errors
+  - exceptions
+  - logical errors
+  - pre and post conditions
+  - error handling
+  - recover from errors
+
+- functions:
+  - Header Files
+  - Scopes
+  - Function call and returns
+    - pass-by-value
+    - pass-by-reference
+    - pass-by-const-reference
+  - Namespaces
+    - using directive
+- Classes
+  - classes
+  - interface and implementation
+  - enumerations
+  - operator overloading
+  - class interfaces:
+    - argument types
+    - copying
+    - default constructors
+    - const member function
+    - member and helper functions
+  
+- Input/Output Streams
+  - I/O stream model
+  - Files
+  - Opening, Reading, Writing a file
+  - I/O error handling
+  - user defined input and output operators
+  - standard input loop
+
+- Customizing input/output
+  - output formatting
+  - file opening and positioning
+  - string streams
+  - line oriented input
+  - character classification
+  - using non-standard separators
+
+- vector and free store
+  - vector
+  - memory, addresses, pointers
+  - free store and pointers
+    - free store allocation
+    - access through pointers
+    - ranges
+    - initialization
+    - null pointer
+    - free store deallocation
+  - destructors
+  - access to elements
+  - pointers to class objects
+  - 
