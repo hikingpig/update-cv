@@ -1,0 +1,109 @@
+- The utilities
+  - basic
+    - ls, cat, rm, less, hostname
+  - file
+    - cp, mv
+    - grep
+    - head, tail
+    - sort, uniq
+    - diff
+    - file
+  - | pipeline: communicates between processes
+  - locating
+    - which, whereis
+    - locate
+  - User and System Info
+    - who
+    - uptime
+    - w
+    - free
+
+- FileSystems
+  - Directory files and ordinary files
+  - Working with directories
+    - mkdir, cd, rmdir, mv, cp
+  - Access permissions
+    - ls -l
+    - chmod
+    - setuid, setgid
+    - directory access permissions
+  
+  - Links
+    - hard links and symbolic links
+    - rm: remove a link
+    - dereference symbolic links
+  
+- Shells
+  - special characters
+  - standard input and standard output
+    - keyboards and screens
+    - special files
+    - redirection
+    - pipelines
+    - lists
+  - running a command in the background
+  - filename and pathname expansions
+    - ?, * and [] characters
+- vim editor
+- bash
+  - startup files
+  - commands that are symbols
+    - (), $(), (()),$(())
+    - [], [[]]
+  - redirecting standard errors
+  - control operators
+    - ;, \n, |, &, |&, ()
+    - &&, ||
+    - ;;
+  - job control:
+    - jobs, fg, bg
+  - directory stacks
+    - dirs, pushd, popd
+  - special characters
+  - locale
+  - processes
+  - history
+  - aliases
+  - functions
+
+- bash programming
+  - control structures
+  - file descriptors
+  - parameters
+    - positional parameters
+    - special parameters
+  - variables
+    - shell, environment variables
+    - array variables
+    - variables in functions
+  - built-in commands:
+    - type, read, exec, trap, kill, eval
+
+  - expessions
+    - arithmetic
+    - logical
+    - string patterns matching
+    - arithmetic operators
+
+- AWK
+  - Syntax
+  - Arguments
+  - Basics
+    - Patterns
+    - Actions
+    - Comments
+    - Variables
+    - Functions
+    - Arithmetic Operators
+    - Associative Arrays
+    - printf
+    - Control Structures
+
+- sed editor
+  - Syntax, arguments, options
+  - Basics
+    - Addresses
+    - Instructions
+    - Control Structures
+    - The Hold Space
+  
