@@ -1,0 +1,127 @@
+- data representation
+  - binary, hexadecimal, integers, signed integers, subtraction
+  - boolean
+
+- x86 architecture
+  - concepts
+    - instruction execution cycle
+    - reading from memory
+    - loading and executing a program
+  - 32 bit and 64 bit x86 processors
+    - operation modes
+    - basic execution environment
+    - memory management
+  
+  - input/output system
+    - levels of I/O access
+  
+  - fundamentals of assembly language
+    - basic
+      - literals
+        - integers, constant integers, real numbers, characters, string
+      - reserved words, identifiers, directives
+      - instructions
+
+    - program template
+    - running and debugging program
+    - assemble-link-executing cycle
+    - data types
+      - BYTE, SBYTE, WORD, SWORD, DWORD, SDWORD
+      - QWORD
+      - Floating points
+    - directives
+      - equal sign directive
+      - EQU directive
+      - TEXTEQU directive
+
+- data transfer, addressing, arithmetics
+  - data transfer
+    - direct memory operands
+    - MOV
+    - LAHF, SAHF
+    - XCHG
+    - direct offset operands
+  - addition and subtraction
+    - INC, DEC
+    - ADD
+    - SUB
+    - NEG
+    - Flags
+  - data related operators and directives
+    - OFFSET
+    - ALIGN
+    - PTR
+    - TYPE
+    - LENGTHOF
+    - SIZEOF
+    - LABEL
+  - Indirect addressing
+    - indirect operands
+    - arrays
+    - indexed operands
+    - pointers
+  - JMP and LOOP instructions
+
+- Procedures
+  - Stack Operations
+    - Runtime stacks
+    - PUSH and POP
+  - Defining and using procedures
+    - PROC directive
+    - CALL and RET
+    - Nested Procedure Calls
+    - Passing register arguments to Procedures
+    - Saving and Restoring registers
+  - Linking to external libraries
+
+- Conditional Processing
+  - Conditional Branching
+  - Boolean and comparison Instructions
+    - CPU status flags
+    - Bit-mapped sets
+    - AND, OR, XOR, NOT instructions
+    - CMP, TEST instructions
+    - setting and clearing CPU flags
+  - Conditional jumps
+    - structures
+    - Jcond
+    - types of conditional jump instruction
+  - Conditional loop instruction
+    - LOOPZ and LOOPE instructions
+    - LOOPNZ and LOOPNE instructions
+  - Conditional structures
+    - Block-structured IF statements
+    - Compound expressions
+    - While loops
+    - table-driven selection
+  - Finite state machine
+  - Conditional control flow directives
+    - IF
+    - signed and unsigned comparisons
+    - compound expressions
+    - .REPEAT and .WHILE
+  
+- Integer Arithmetic
+  - Shift and Rotate instructions
+    - SHL, SHR
+    - SAL, SAR
+    - ROL, ROR
+    - RCL, RCR
+    - SHLD, SHRD
+  - Multiplication and Division instructions
+    - MUL
+    - IMUL
+    - Measuring Program Execution Times
+    - DIV Instruction
+    - Signed Integer Division
+    - Implementing Arithmetic Expressions
+  
+  - Extended Addition and Subtraction
+    - ADC instruction
+    - SBB instruction
+
+  - ASCII and unpacked decimal arithmetic
+    - AAA, AAS, AAM, AAD
+  - Packed decimal arithmetic
+    - DAA, DAS
+
