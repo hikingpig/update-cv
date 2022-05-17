@@ -15,24 +15,24 @@
   - input/output system
     - levels of I/O access
   
-  - fundamentals of assembly language
-    - basic
-      - literals
-        - integers, constant integers, real numbers, characters, string
-      - reserved words, identifiers, directives
-      - instructions
+- fundamentals of assembly language
+  - basic
+    - literals
+      - integers, constant integers, real numbers, characters, string
+    - reserved words, identifiers, directives
+    - instructions
 
-    - program template
-    - running and debugging program
-    - assemble-link-executing cycle
-    - data types
-      - BYTE, SBYTE, WORD, SWORD, DWORD, SDWORD
-      - QWORD
-      - Floating points
-    - directives
-      - equal sign directive
-      - EQU directive
-      - TEXTEQU directive
+  - program template
+  - running and debugging program
+  - assemble-link-executing cycle
+  - data types
+    - BYTE, SBYTE, WORD, SWORD, DWORD, SDWORD
+    - QWORD
+    - Floating points
+  - directives
+    - equal sign directive
+    - EQU directive
+    - TEXTEQU directive
 
 - data transfer, addressing, arithmetics
   - data transfer
