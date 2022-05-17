@@ -66,4 +66,52 @@
   - destructors
   - access to elements
   - pointers to class objects
-  - 
+  - void* and cast
+  - pointers and references
+  - pointers and references
+  - the "this" pointer
+
+- vectors and arrays
+  - initialization
+  - copying & moving
+  - constructors and destructors
+  - access to vector elements
+  - arrays
+    - pointers to array elements
+    - pointers and arrays
+    - array initialization
+    - pointer problems
+  
+- vector, templates and exceptions
+  - changing size
+    - reverse, capacity, resize, pushback
+  - templates
+    - types as template parameters
+    - generic programming
+    - containers and inheritance
+  - resources and exceptions
+    - resource management problems
+    - unique_ptr
+  
+- containers and iterators
+  - storing and processing data
+  - STL ideals
+  - sequences and iterators
+  - vector, list and string
+  - vector in STL
+  - array in STL
+
+- algorithms and maps
+  - standard library algorithms
+  - find(), find_if()
+  - function objects
+    - class members
+    - lambda expressions
+  - numerical algorithms
+    - accumulate
+    - inner product
+  
+  - map
+    - map
+    - unordered map
+    - set
